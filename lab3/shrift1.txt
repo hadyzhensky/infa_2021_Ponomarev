@@ -1,0 +1,5 @@
+t.right(45)
+t.forward(np.sqrt(2) * x)
+t.right(135)
+t.forward(2 * x)
+t.right(180)
